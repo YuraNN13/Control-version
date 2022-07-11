@@ -82,3 +82,6 @@
 * ***I need help, choosing the direction of study***
 
 Небольшая рекламка работы <http://xn--90adv1c.xn--p1ai/>
+
+![Проект1](Буксир.jpg)
+![Проект2](Земснаряд.jpg)
