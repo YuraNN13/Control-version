@@ -71,6 +71,14 @@
 * Пункт 2
 * Пункт 3
 
+**Постоянно выводит это**
+
+* _$ git status_
+
+* _On branch text_formatting_
+
+* _nothing to commit, working tree clean_
+
 * ***I need help, choosing the direction of study***
 
 Небольшая рекламка работы <http://xn--90adv1c.xn--p1ai/>
